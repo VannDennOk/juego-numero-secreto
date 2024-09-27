@@ -27,7 +27,7 @@ Juego del número secreto realizado en la Formación de Principiante en Programa
 
 <h3>Mi aporte :nail_care:</h3>
 <p>
-El ejercicio estaba enfocado a Java Script. Así que tomé el códig como base y elaboré un nuevo diseño para trabajar en la distribución de los elementos, el uso del flexbox y pantallas responsivas a distintos tamaños.
+El ejercicio estaba enfocado a Java Script. Así que tomé el código de la app como base (casi sin modificarlo) y elaboré un nuevo diseño para trabajar en la distribución de los elementos, el uso del flexbox y pantallas responsivas a distintos tamaños.
 </p>
 
 <h2>Acceso al proyecto :link:</h2>
