@@ -6,13 +6,12 @@
 
 <h2>Descripción del proyecto :bulb:</h2>
 <p>
-Juego del número secreto realizado en la Formación de Principiante en Programación de Alura-Latam.
-<br>Esta página web nos permite jugar contra el programa para adivinar un número secreto aleatorio.
+Juego del número secreto realizado en la Formación de Principiante en Programación de Alura-Latam. Esta página web nos permite jugar contra el programa para adivinar un número secreto aleatorio.
 </p>
 
 <h3>Funcionalidad :wrench:</h3>
 <p>
-:small_blue_diamond: El programa elige un número aleatorio entre el 1 y el 10<br>
+:small_blue_diamond: El programa elige un número aleatorio entre el 1 y el 10
 <br>:small_blue_diamond: El usuario va ingresando números entre 1 y 10 hasta adivinar el número secreto
 <br>:small_blue_diamond: En cada intento el usuario recibe una pista sobre si el número secreto es mayor o menor
 <br>:small_blue_diamond: Al adivinar, el programa le comunica al usuario cuál era el número secreto y en cuántos intentos lo adivinó
@@ -34,15 +33,16 @@ El ejercicio estaba enfocado a Java Script. Así que tomé el códig como base y
 <h2>Acceso al proyecto :link:</h2>
 <br>  
     &#9670;
-    <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/GitHub_del_proyecto-indigo"></a>
+    <a href="https://github.com/VannDennOk/juego-numero-secreto"><img alt="Static Badge" src="https://img.shields.io/badge/GitHub_del_proyecto-indigo"></a>
     &#9670;
-    <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/GitHub_Page-indigo"></a>
+    <a href="https://vanndennok.github.io/juego-numero-secreto/"><img alt="Static Badge" src="https://img.shields.io/badge/GitHub_Page-indigo"></a>
     &#9670;
 <br>
 
 <h2>Autoría :woman:</h2>
 <p>
-El proyecto fue desarrollado por Vanina Denegri en base a los diseños y el código base provistos por Alura-Latam.
+El proyecto fue desarrollado por Vanina Denegri en base a los diseños y los códigos provistos por Alura-Latam.
+<br>
 <br>
     &#9632;
     <a href="https://github.com/VannDennOk/"><img alt="Static Badge" src="https://img.shields.io/badge/Mi_perfil_de_GitHub-blue"></a>
@@ -71,11 +71,11 @@ Mandarme algún mensaje :e-mail:
 <br>
 O seguirme en redes para comentar y compartir :bell:
 <br>
-Dame los reconocimientos correspondientes si es necesario :gift_heart:  
+También podés darme los reconocimientos correspondientes si es necesario :gift_heart:  
 </p>
 
 <h2>Notas finales :exclamation:</h2>
-<p>Estos son mis proyectos como principiante. Pongo mucho esfuerzo en descubrir cosas nuevas. Aún me quedan cosas por aprender, mejorar mis "buenas prácticas", trabajar mejor en el responsive, utilizar mejor GitHub, etc., etc., etc. Por favor, si tenés algún comentario para ayudarme a crecer lo recibiré atentamente siempre y cuando venga con respeto.</p>
+<p>Estos son mis proyectos como principiante. Pongo mucho esfuerzo en descubrir cosas nuevas. Aún me quedan cosas por aprender, mejorar mis "buenas prácticas", trabajar en el responsive, utilizar mejor GitHub, etc., etc., etc. Por favor, si tenés algún comentario para ayudarme a crecer lo recibiré atentamente siempre y cuando venga con respeto.</p>
 
 <h2>Licencia :warning:</h2>
 <p>Este proyecto está bajo la licencia <a href="https://opensource.org/license/MIT"><img alt="Static Badge" src="https://img.shields.io/badge/MIT-red"></a></p>
